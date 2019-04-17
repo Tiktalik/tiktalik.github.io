@@ -1,3 +1,8 @@
+---
+title: Hello World
+---
+
+
 Or: Sometimes you can't think of a good title, so you just use the most formulaic one possible.
 
 I'm going to be real here. I have no idea what I'm doing most of the time. Jekyll, like most forms of web development is an absolute enigma to me, but given that there seem to be posts showing up now, I'm probably on the right track.

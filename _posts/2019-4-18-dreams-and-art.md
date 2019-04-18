@@ -61,3 +61,7 @@ new skills, it probably won't be.
 
 And maybe after writing out some blog posts, my writing style will stabilize a bit and I'll hate writing fiction less. Probably not though.
 
+
+
+
+UPDATE: Since I slept a grand total of 3-4 hours last night, I spent the entire day playing Star Wars: KOTOR. Good times, finally made it off Taris.
